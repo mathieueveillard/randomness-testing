@@ -1,5 +1,5 @@
 {
-  "name": "di-example",
+  "name": "randomness-testing",
   "version": "1.0.0",
   "description": "Starter project for kata (Node, TypeScript, Jest)",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathieueveillard/di-example.git"
+    "url": "git+https://github.com/mathieueveillard/randomness-testing.git"
   },
   "keywords": [
     "starter",
@@ -36,7 +36,7 @@
   "author": "Mathieu Eveillard",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathieueveillard/di-example/issues"
+    "url": "https://github.com/mathieueveillard/randomness-testing/issues"
   },
-  "homepage": "https://github.com/mathieueveillard/di-example#readme"
+  "homepage": "https://github.com/mathieueveillard/randomness-testing#readme"
 }
